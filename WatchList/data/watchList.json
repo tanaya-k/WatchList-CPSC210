@@ -1,0 +1,26 @@
+{
+    "finishedWatchingList": [
+        {
+            "review": "cheese is great the second time around",
+            "name": "fromage2",
+            "genre": "cheese",
+            "rating": 5,
+            "type": true
+        },
+        {
+            "review": "good",
+            "name": "movie test",
+            "genre": "drama",
+            "rating": 3,
+            "type": false
+        }
+    ],
+    "currentlyWatchingList": [{
+        "review": "very good",
+        "name": "tv show test",
+        "genre": "comedy",
+        "rating": 4,
+        "type": true
+    }],
+    "name": "My Watch List"
+}

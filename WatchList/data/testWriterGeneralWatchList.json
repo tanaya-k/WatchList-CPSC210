@@ -1,0 +1,17 @@
+{
+    "finishedWatchingList": [{
+        "review": "fun",
+        "name": "Arthur",
+        "genre": "Cartoon",
+        "rating": 3,
+        "type": true
+    }],
+    "currentlyWatchingList": [{
+        "review": "good",
+        "name": "Saw",
+        "genre": "Thriller",
+        "rating": 3,
+        "type": false
+    }],
+    "name": "My Watch List"
+}

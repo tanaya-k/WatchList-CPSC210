@@ -1,0 +1,28 @@
+{
+  "currentlyWatchingList": [
+    {
+      "name": "The Batman",
+      "genre": "Gritty noir",
+      "type": false,
+      "rating": 5,
+      "review": "Dark and broody, perfect mood for Batman"
+    },
+    {
+      "name": "The Mandalorian",
+      "genre": "Fantasy",
+      "type": true,
+      "rating": 4,
+      "review": "Perfect blend of old and new Star Wars"
+    }
+  ],
+  "finishedWatchingList": [
+    {
+      "name": "Sing 2",
+      "genre": "Animation",
+      "type": false,
+      "rating": 1,
+      "review": "Not a great movie"
+    }
+  ],
+  "name" : "My Watch List"
+}
